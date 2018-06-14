@@ -1,10 +1,10 @@
 [stage-one]
 results = [ [ "u", "b", "b", "h", "u", "b",], [ "b", "u", "h", "b", "b", "h",], [ "h", "b", "h", "h", "b", "h",], [ "u", "u", "h", "b", "b", "u",], [ "h", "u", "h", "h", "b", "u",], [ "h", "h", "h", "b", "b", "h",], [ "h", "b", "h", "h", "u", "h",], [ "h", "h", "u", "u", "b", "b",],]
-winners = [ [ "Uruguay", "Egypt",], [ "Spain", "Portugal",], [ "France", "Denmark",], [ "Argentina", "Iceland",], [ "Brazil", "Serbia",], [ "Germany", "Mexico",], [ "Belgium", "England",], [ "Colombia", "Poland",],]
+winners = [ [ "Uruguay", "Egypt",], [ "Spain", "Portugal",], [ "France", "Denmark",], [ "Argentina", "Iceland",], [ "Brazil", "Serbia",], [ "Germany", "Mexico",], [ "England", "Belgium",], [ "Colombia", "Poland",],]
 
 [stage-two]
-round-of-16 = [ "Portugal", "Spain", "Iceland", "Argentina", "Brazil", "Germany", "Belgium", "England",]
-quarter-final = [ "Portugal", "Spain", "Brazil", "Germany",]
+round-of-16 = [ "Uruguay", "Spain", "France", "Denmark", "Brazil", "Germany", "England", "Belgium",]
+quarter-final = [ "France", "Spain", "Brazil", "Germany",]
 semi-final = [ "Brazil", "Germany",]
 
 [finals]
@@ -12,4 +12,4 @@ bronse-final = "Spain"
 final = "Germany"
 
 [info]
-user = "LarsM"
+user = "Lars Magnus"
