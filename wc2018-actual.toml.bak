@@ -1,9 +1,9 @@
 [stage-one]
-results = [ [ "h", "b", "h", "h", "-", "-",], [ "u", "b", "h", "b", "-", "-",], [ "h", "b", "h", "u", "-", "-",], [ "u", "h", "b", "h", "-", "-",], [ "u", "b", "h", "b", "-", "-",], [ "b", "h", "-", "-", "-", "-",], [ "h", "b", "-", "-", "-", "-",], [ "b", "b", "-", "-", "-", "-",],]
-winners = [ [ "-", "-",], [ "-", "-",], [ "-", "-",], [ "-", "-",], [ "-", "-",], [ "-", "-",], [ "-", "-",], [ "-", "-",],]
+results = [ [ "h", "b", "h", "h", "h", "h",], [ "u", "b", "h", "b", "u", "u",], [ "h", "b", "h", "u", "u", "b",], [ "u", "h", "b", "h", "b", "b",], [ "u", "b", "h", "b", "b", "u",], [ "b", "h", "h", "b", "h", "b",], [ "h", "b", "h", "h", "b", "b",], [ "b", "b", "b", "u", "b", "b",],]
+winners = [ [ "Uruguay", "Russia",], [ "Spain", "Portugal",], [ "France", "Denmark",], [ "Croatia", "Argentina",], [ "Brazil", "Switzerland",], [ "Sweden", "Mexico",], [ "Belgium", "England",], [ "Colombia", "Japan",],]
 
 [stage-two]
-round-of-16 = [ "-", "-", "-", "-", "-", "-", "-", "-",]
+round-of-16 = [ "Uruguay", "Russia", "France", "Croatia", "Brazil", "Sweden", "Belgium", "England",]
 quarter-final = [ "-", "-", "-", "-",]
 semi-final = [ "-", "-",]
 
