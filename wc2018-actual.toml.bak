@@ -5,10 +5,10 @@ winners = [ [ "Uruguay", "Russia",], [ "Spain", "Portugal",], [ "France", "Denma
 [stage-two]
 round-of-16 = [ "Uruguay", "Russia", "France", "Croatia", "Brazil", "Sweden", "Belgium", "England",]
 quarter-final = [ "France", "Croatia", "Belgium", "England",]
-semi-final = [ "-", "-",]
+semi-final = [ "France", "Croatia",]
 
 [finals]
-bronse-final = "-"
+bronse-final = "Belgium"
 final = "-"
 
 [info]
